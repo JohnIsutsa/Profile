@@ -107,6 +107,10 @@ nav ul li a:hover::after {
     
 }
 
+.about-col-2 p span {
+    color: #ff004f;
+}
+
 .sub-title {
     font-weight: 600;
     color: #ffffff;
