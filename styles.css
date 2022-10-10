@@ -417,6 +417,14 @@ nav .fas{
         left: 25px;
         cursor: pointer;
     }
+    /* nav {
+        position: relative;
+    } */
+    /* nav i {
+        position: sticky;
+        float: right;  
+        top: 10; 
+    } */
     .sub-title {
         font-size: 40px;
     }
